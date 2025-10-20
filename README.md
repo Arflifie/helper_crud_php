@@ -119,18 +119,7 @@ Proyek ini dilisensikan di bawah **MIT License** — silakan gunakan, ubah, dan 
 
 ---
 
-## 💬 Kontak
-
-📧 Email: [arfun@example.com](mailto:arfun@example.com)
-🐙 GitHub: [@arfunyafie](https://github.com/arfunyafie)
-
----
-
 > “Helper sederhana, kerjaan jadi cepat, hasil tetap rapi.”
 
 ```
 
----
-
-Apakah kamu ingin saya bantu **buatkan versi otomatis README.md ini** (dalam format file yang bisa kamu unggah ke GitHub, misalnya `README.md`) atau kamu mau saya **sesuaikan dulu dengan struktur dan nama fungsi asli helper_crud kamu**?
-```
