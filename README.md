@@ -57,8 +57,8 @@ require_once 'helpers/crud_helper.php';
 
 ```php
 $data = [
-    'nama' => 'Arfun',
-    'email' => 'arfun@example.com',
+    'nama' => 'anonim',
+    'email' => 'anonim@example.com',
 ];
 create('users', $data);
 ```
@@ -95,8 +95,8 @@ Tabel contoh: `users`
 
 | id | nama  | email                                         | status   |
 | -- | ----- | --------------------------------------------- | -------- |
-| 1  | Arfun | [arfun@example.com](mailto:arfun@example.com) | aktif    |
-| 2  | Yafie | [yafie@example.com](mailto:yafie@example.com) | nonaktif |
+| 1  | first_name | [anonim@example.com](mailto:anonim@example.com) | aktif    |
+| 2  | last_name | [anonim@example.com](mailto:anonim@example.com) | nonaktif |
 
 ---
 
