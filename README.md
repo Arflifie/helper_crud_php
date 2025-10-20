@@ -1,8 +1,3 @@
-Berikut contoh **README.md** yang profesional dan rapi untuk proyek **helper_crud PHP** di GitHub 👇
-
----
-
-```markdown
 # 🧰 Helper CRUD PHP
 
 Helper CRUD adalah kumpulan fungsi sederhana yang mempermudah proses **Create, Read, Update, Delete (CRUD)** dalam aplikasi berbasis **PHP dan MySQL**.  
